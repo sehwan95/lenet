@@ -1,1 +1,1 @@
-# ETRI AI ACC cource
+# ETRI AI RTL
